@@ -2,11 +2,11 @@
   <p>This repository contains a Weather Bot application implemented using Tkinter in Python. The Weather Bot retrieves weather information based on the user's input and displays it on the screen using an intuitive graphical user interface.</p>
 <h2>Features</h2>
 
-   <p> User-Friendly Interface: The application offers an intuitive GUI with input fields and buttons for easy interaction.
-    Voice Recognition: Users can use voice commands to input the city name, enhancing convenience and accessibility.
-    Real-Time Weather Data: The Weather Bot retrieves real-time weather information from the OpenWeatherMap API, ensuring accurate and up-to-date forecasts.
-    Dynamic Background: The background of the application changes based on the weather condition, providing a visual representation of the current weather.
-    Text-to-Speech: The application utilizes pyttsx3 library to convert the weather information into speech, enabling users to listen to the weather forecast.</p>
+   <p> <ul><li><b>User-Friendly Interface:</b>  The application offers an intuitive GUI with input fields and buttons for easy interaction.<li>
+    <b>Voice Recognition:</b>  Users can use voice commands to input the city name, enhancing convenience and accessibility.<li>
+    <b>Real-Time Weather Data: </b> The Weather Bot retrieves real-time weather information from the OpenWeatherMap API, ensuring accurate and up-to-date forecasts.<li>
+    <b>Dynamic Background:</b>  The background of the application changes based on the weather condition, providing a visual representation of the current weather.<li>
+    <b>Text-to-Speech:</b>  The application utilizes pyttsx3 library to convert the weather information into speech, enabling users to listen to the weather forecast.</ul></p>
   <h2>Prerequisites</h2>
   <p>In order to run the Weather Bot application, make sure you have the following prerequisites:</p>
   <ul>
