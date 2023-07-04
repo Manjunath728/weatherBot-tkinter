@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Weather Bot</title>
-</head>
-<body>
-  <h1>Weather Bot</h1>
+<h1>Weather Bot</h1>
   <p>This repository contains a Weather Bot application implemented using Tkinter in Python. The Weather Bot retrieves weather information based on the user's input and displays it on the screen using an intuitive graphical user interface.</p>
 
   <h2>Prerequisites</h2>
@@ -14,51 +8,49 @@
     <li>PIL: Install the PIL library using pip:</li>
   </ul>
 
-  ```bash
-  pip install pillow
+    pip install pillow
 
   <li>Requests: Install the Requests library using pip:</li>
-  ```bash
-  pip install requests
-  ```
+
+    pip install requests
+  
   <li>SpeechRecognition: Install the SpeechRecognition library using pip:</li>
-  ```bash
-  pip install SpeechRecognition
-  ```
+    
+    pip install SpeechRecognition
+
   <li>pyttsx3: Install the pyttsx3 library using pip:</li>
-  ```bash
-  pip install pyttsx3
-  ```
+
+    pip install pyttsx3
+
   <li>ttkbootstrap: Install the ttkbootstrap library using pip:</li>
-  ```bash
-  pip install ttkbootstrap
-  ```
+
+    pip install ttkbootstrap
+
   <h2>Getting Started</h2>
   <p>To get started with the Weather Bot application, follow these steps:</p>
   <ol>
     <li>Clone the repository:</li>
   </ol>
-  ```bash
-  git clone <repository-url>
-  ```
+
+    git clone <repository-url>
+
   <ol start="2">
     <li>Navigate to the project directory:</li>
   </ol>
-  ```bash
-  cd Weather-Bot
-  ```
+
+
   <ol start="3">
     <li>Install the dependencies:</li>
   </ol>
-  ```bash
-  pip install -r requirements.txt
-  ```
+    
+    pip install -r requirements.txt
+
   <ol start="4">
     <li>Run the application:</li>
   </ol>
-  ```bash
-  python main.py
-  ```
+  
+    python main.py
+  
   <h2>Usage</h2>
   <p>Once the application is running, follow these steps to use the Weather Bot:</p>
   <ul>
@@ -82,5 +74,3 @@
   <h2>Contact</h2>
   <p>If you have any questions or inquiries regarding the Weather Bot application, please contact the project maintainer at [your-email@example.com](mailto:your-email@example.com).</p>
   <p>Feel free to open an issue on the repository if you encounter any problems or have suggestions for improvements.</p>
-</body>
-</html>
