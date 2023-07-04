@@ -32,12 +32,13 @@
     <li>Clone the repository:</li>
   </ol>
 
-    git clone <repository-url>
+    git clone https://github.com/Manjunath728/weatherBot-tkinter
 
   <ol start="2">
     <li>Navigate to the project directory:</li>
   </ol>
 
+    cd weatherBot-tkinter
 
   <ol start="3">
     <li>Install the dependencies:</li>
@@ -58,19 +59,3 @@
     <li>Click on the "Check Weather" button to retrieve and display the weather information for the specified city.</li>
     <li>You can also click on the microphone icon to input the city name using voice recognition.</li>
   </ul>
-  <h2>Contributing</h2>
-  <p>Contributions to the Weather Bot application are welcome. If you encounter any issues or have suggestions for improvements, please open an issue on the repository's issue tracker.</p>
-  <p>If you would like to contribute code to the project, please follow these steps:</p>
-  <ol>
-    <li>Fork the repository.</li>
-    <li>Create a new branch for your feature or bug fix.</li>
-    <li>Make the necessary changes and commit your code.</li>
-    <li>Push your changes to your fork.</li>
-    <li>Submit a pull request to the main repository.</li>
-  </ol>
-  <p>Please ensure that your code follows the existing code style and includes appropriate tests.</p>
-  <h2>License</h2>
-  <p>The Weather Bot application is open source and is available under the MIT License.</p>
-  <h2>Contact</h2>
-  <p>If you have any questions or inquiries regarding the Weather Bot application, please contact the project maintainer at [your-email@example.com](mailto:your-email@example.com).</p>
-  <p>Feel free to open an issue on the repository if you encounter any problems or have suggestions for improvements.</p>
